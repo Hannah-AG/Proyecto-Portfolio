@@ -1,0 +1,23 @@
+#HANNAHLinks .nav-link{
+    font-family: "Geist", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(240, 3%, 17%);
+}
+
+.navbar{
+    padding: 18px 30px;
+}
+
+
+
+.login-buttom{
+    font-family: "Geist", sans-serif;
+    background-color: #C8370B;
+    color: #FEFDFC;
+    font-size: 16px;
+    padding: 15px 24px;
+    border-radius: 5px;
+    border-bottom-right-radius: 18px;
+    text-decoration: none;
+}
